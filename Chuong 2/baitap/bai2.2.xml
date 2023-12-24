@@ -1,0 +1,17 @@
+<sinh_vien>
+    <thong_tin_sinh_vien>
+        <ma_sinh_vien>SV001</ma_sinh_vien>
+        <ten_sinh_vien>Nguyen Van Duy</ten_sinh_vien>
+        <nam_sinh>2004</nam_sinh>
+        <lop>DHKL16A1HN</lop>
+        <gioi_tinh>Nam</gioi_tinh>
+    </thong_tin_sinh_vien>
+    <thong_tin_sinh_vien>
+        <ma_sinh_vien>SV002</ma_sinh_vien>
+        <ten_sinh_vien>Tran Thi B</ten_sinh_vien>
+        <nam_sinh>2004</nam_sinh>
+        <lop>DHKL16A1HN</lop>
+        <gioi_tinh>Nữ</gioi_tinh>
+    </thong_tin_sinh_vien>
+    <!-- Thêm thông tin sinh viên khác tại đây -->
+</sinh_vien>

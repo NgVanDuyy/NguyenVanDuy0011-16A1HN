@@ -1,0 +1,14 @@
+<cong_ty>
+    <thong_tin_chung>
+        <ten>DaiViet.</ten>
+        <dia_chi>123 Đường ABC, Thành phố XYZ</dia_chi>
+        <dien_thoai>0123 456 789</dien_thoai>
+        <ma_so_thue>ABC123456</ma_so_thue>
+    </thong_tin_chung>
+    <giam_doc>
+        <ho_ten>Nguyen Van Duy</ho_ten>
+        <dia_chi>456 Đường XYZ, Thành phố ABC</dia_chi>
+        <dien_thoai>0987 654 321</dien_thoai>
+        <ma_so_thue>XYZ987654</ma_so_thue>
+    </giam_doc>
+</cong_ty>
